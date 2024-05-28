@@ -1,0 +1,9 @@
+.main {
+    /* background: url(../images/sunset_beach.jpg) no-repeat center center fixed; */
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    margin: auto;
+    height: 100vh;
+}
